@@ -4,7 +4,7 @@ Site para estudo das aulas em Bootstrap
 
 <a href = "https://rodrigoalvesf.github.io/Site-Finans/"> Acompanhe o projeto </a>
 
-# Preview
+# Acompanhe as etapas:
 
 Inicialmente começamos na criação da barra de navegação:
 
