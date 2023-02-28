@@ -12,17 +12,22 @@
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
 
     <!--Font Awesome-->
-    <link rel="stylesheet" href="https://kit.fontawesome.com/683af27ae6.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <title>Finans - finanças pessoais</title>
 
   </head>
-  <body>
+  <body id="home">
 
     <header><!--Inicio cabeçalho-->
       <nav class="navbar navbar-expand-sm navbar-light bg-warning justify-content-end">
+        <!--
+          navbar-expand-sm: O comando "navbar-expand-sm" é uma classe CSS da biblioteca Bootstrap que é usada para controlar o comportamento de uma barra de navegação (navbar) em telas menores, como smartphones.
+          Quando aplicado a um elemento "navbar" em HTML, essa classe faz com que a barra de navegação seja expandida (ou seja, o conteúdo da barra de navegação é mostrado) apenas em telas com resolução igual ou superior a "sm" (dispositivos com largura de tela de pelo menos 576 pixels)
+        -->
 
         <div class="container">
+          <!--Criamos um container para centralizar de forma padrão toda a página-->
 
           <a class="navbar-brand" href="">
             <img src="img/logo.png" width="142">
@@ -30,10 +35,10 @@
           
           <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-principal">
             <span class="navbar-toggler-icon"></span>
-          </button>
+          </button> <!--Comandos para criar um botão de navegação responsivo-->
 
           <div class="collapse navbar-collapse" id="nav-principal">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto"> <!--navbar-nav: vertical-->
               <li class="nav-item">
                 <a class="nav-link" href="">Home</a>
               </li>
@@ -58,11 +63,36 @@
     <section id="home"> <!--Inicio da seção-->
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            Texto
-          </div>
-          <div class="col-md-6">
-            Imagem
+          <div class="col-md-6 d-flex"> <!--Textos da seção-->
+            <div class="align-self-center"> <!--para centralizar devemoz transformar em d-flex-->
+              <h1 class="display-4">Suas contas, descomplicadas</h1>
+              <p>Usado por mais de 1 milhão de pessoas, o Finans é uma ferramenta online que vai facilitar sua vida financeira.</p>
+
+              <form class="mt-4 mb-4"> <!--Inicio forms-->
+                <div class="input-group input-group-lg">
+                  <!--input-group serve para agrupar todos os conteúdos desse input em uma única linha-->
+                  <input class="form-control" type="text" placeholder="Seu e-mail">
+                  <div class="input-group-append"> <!--formatação para que iguale todo o conteúdo do group-->
+                    <button class="btn btn-primary" type="button">Cadastre-se</button>
+                  </div>
+                </div>
+              </form> <!--Fim forms-->
+
+              <div> <!--icones-->
+                <p>Disponível para
+                  <a class="btn btn-outline-light" href="">
+                    <i class="fab fa-android fa-lg"></i>
+                  </a>
+                  <a class="btn btn-outline-light" href="">
+                    <i class="fa-brands fa-apple fa-lg"></i>
+                  </a>
+                </p>
+              </div>
+
+            </div>
+          </div> <!--Fim textos da seção-->
+          <div class="col-md-6"> <!--Imagem mulher-->
+            <img class="some" src="img/capa-mulher.png">
           </div>
         </div>
       </div>

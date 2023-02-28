@@ -1,4 +1,10 @@
-/*#home {
-	background: #ffcf41;
+#home {
+	background: #ffc107;
 	color: white;
-}*/
+}
+
+@media (max-width: 768px) {
+	.some {
+		visibility: hidden;
+	}
+}
