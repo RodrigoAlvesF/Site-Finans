@@ -2,7 +2,7 @@
 
 Site para estudo das aulas em Bootstrap
 
-<a href = "https://rodrigoalvesf.github.io/Site-Noticias-Cidade/"> Acompanhe o projeto </a>
+<a href = "https://rodrigoalvesf.github.io/Site-Finans/"> Acompanhe o projeto </a>
 
 # Preview
 
