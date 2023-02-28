@@ -1,14 +1,18 @@
 # Site-Finans
 
-Site para estudo das aulas em Bootstrap
+Site para estudo focado em Bootstrap utilizado somente HTML + CSS
 
 <a href = "https://rodrigoalvesf.github.io/Site-Finans/"> Acompanhe o projeto </a>
 
 # Acompanhe as etapas:
 
-Inicialmente começamos na criação da barra de navegação:
+<h3>Inicialmente comecei a criação da barra de navegação:</h3>
 
   <img src = "https://i.imgur.com/94rRJ8W.jpg">
+
+<h3>Em seguida criei primeira section de conteúdo do site:</h3>
+
+  <img src = "https://i.imgur.com/MKbRkRQ.png">
 
 <br>
 <br>
