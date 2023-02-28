@@ -1,2 +1,13 @@
 # Site-Finans
-Site criado com instruções de curso Front-End (HTML+CSS) Focado no uso de bootstrap
+
+Site para estudo das aulas em Bootstrap
+
+<a href = "https://rodrigoalvesf.github.io/Site-Noticias-Cidade/"> Acompanhe o projeto </a>
+
+# Preview
+
+Inicialmente começamos na criação da barra de navegação:
+
+  <img src = "https://i.imgur.com/94rRJ8W.jpg">
+
+continue...
