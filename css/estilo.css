@@ -5,6 +5,11 @@
 
 @media (max-width: 768px) {
 	.some {
-		visibility: hidden;
+		display: none;
 	}
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
 }
