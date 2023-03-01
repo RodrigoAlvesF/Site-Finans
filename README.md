@@ -2,7 +2,7 @@
 
 Site para estudo focado em Bootstrap utilizado somente HTML + CSS
 
-<a href = "https://rodrigoalvesf.github.io/Site-Finans/"> Acompanhe o projeto </a>
+<a href = "https://rodrigoalvesf.github.io/Site-Finans/">Veja o site</a>
 
 # Acompanhe as etapas:
 
