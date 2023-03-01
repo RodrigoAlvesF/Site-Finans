@@ -17,4 +17,15 @@ Site para estudo focado em Bootstrap utilizado somente HTML + CSS
 <br>
 <br>
 
-  <img src = "https://media.istockphoto.com/id/1192686067/zh/%E5%90%91%E9%87%8F/%E5%9C%A8%E7%B4%85%E8%89%B2%E5%9C%93%E5%BD%A2%E8%83%8C%E6%99%AF%E4%B8%8A%E7%B9%BC%E7%BA%8C%E6%89%8B%E5%AF%AB%E6%A8%99%E9%A1%8C%E8%88%8A%E9%9B%BB%E5%BD%B1%E5%9C%88%E7%B5%90%E6%9D%9F%E8%9E%A2%E5%B9%95%E5%90%91%E9%87%8F%E5%BA%AB%E5%AD%98%E5%9C%96.jpg?s=612x612&w=0&k=20&c=mDJUmwUj_mnWHfRdUIrfwSTLl00Opz8X3ME1LJa2zkk=" width="250px">
+<h3>Criei todo o conteúdo principal restante:</h3>
+
+  <img src = "https://i.imgur.com/YzthW1J.jpg">
+  <img src = "https://i.imgur.com/O4HtihC.jpg">
+  <img src = "https://i.imgur.com/xjZmxIo.jpg">
+
+<br>
+<br>
+
+<h3>Finalizei com a criação do rodapé:</h3>
+
+  <img src = "https://i.imgur.com/BztxCfx.jpg">
